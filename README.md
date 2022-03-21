@@ -54,7 +54,7 @@ $ git clone https://github.com/AmirXploit/cr4ck
 
 $ cd cr4ck
 
-$ python2 orbxd2.py
+$ python2 crackfb.py
 
 ## ✭ Warning ✭ ##
 ```
